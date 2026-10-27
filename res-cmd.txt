@@ -1,1 +1,1 @@
-request --ca rgadcapprd51825.DTVPAN.COM\DTVPAN-CA --template APIManager
+request --ca rgadcapprd51825.DTVPAN.COM\\DTVPAN-CA --template 1.3.6.1.4.1.311.21.8.4707207.9194940.13848231.4816699.4391984.214.9890929.16449563 --upn ciguaran1@dtvpan.com
