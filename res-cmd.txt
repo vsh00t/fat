@@ -1,1 +1,1 @@
-request --ca rgadcapprd51825.DTVPAN.COM\DTVPAN-CA --template SubCA --upn APIManager@dtvpan.com
+request --ca rgadcapprd51825.DTVPAN.COM\DTVPAN-CA --template SubCA --upn ciguaran1@dtvpan.com
