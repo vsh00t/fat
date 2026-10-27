@@ -1,0 +1,1 @@
+asktgt /user:ciguaran1 /certificate:C:\Users\Public\ciguaran1.pfx /domain:dtvpan.com /nowrap
