@@ -1,0 +1,1 @@
+-s -o C:\Users\Public\sn_out.log -d dtvpan.com -c 172.29.128.144 -v data
